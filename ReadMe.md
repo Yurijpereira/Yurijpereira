@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am passionate about technology and innovation, driven by a self-taught mindset and a strong academic background in Software Engineering. With excellent communication skills, a collaborative spirit, and sharp logical reasoning, I thrive in dynamic environments and embrace continuous learning to refine my expertise.<br><br>Currently, I work as a Front-End Software Developer, focusing on JavaScript, TypeScript, and Vue.js 3. My goal is to contribute to challenging projects by delivering efficient and high-quality solutions while constantly expanding my knowledge in the ever-evolving tech landscape.
 
 
