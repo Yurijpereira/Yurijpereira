@@ -1,5 +1,19 @@
 # About Me:
-I am passionate about technology and innovation, driven by a self-taught mindset and a strong academic background in Software Engineering. With excellent communication skills, a collaborative spirit, and sharp logical reasoning, I thrive in dynamic environments and embrace continuous learning to refine my expertise.<br><br>Currently, I work as a Front-End Software Developer, focusing on JavaScript, TypeScript, and Vue.js 3. My goal is to contribute to challenging projects by delivering efficient and high-quality solutions while constantly expanding my knowledge in the ever-evolving tech landscape.
+Front-End Software Engineer specialized in Vue.js and TypeScript, focused on building scalable, high-performance, and reliable web applications.
+
+I work on complex ERP/CRM systems, developing enterprise dashboards, financial modules, and permission-based multi-tenant features. My experience includes REST and GraphQL integrations, SSR environments, hydration consistency, and scalable component architecture using Vue 3 and modern tooling.
+
+I have hands-on experience refactoring legacy systems, including migrating Blade-based interfaces to modern Vue architectures, improving maintainability, performance, and long-term scalability.
+
+I prioritize software quality and reliability through structured testing strategies and validation patterns, working with:
+- TanStack Query for server-state management
+- Zod and Vee-Validate for type-safe form validation
+- Unit and component testing with Vitest
+- End-to-End testing with Cypress and Playwright
+
+I value clean architecture, strong typing, predictable state flows, and sustainable code evolution. Beyond implementation, I think in terms of product impact, business logic, and long-term technical growth.
+
+Always evolving. Always building.
 
 
 ## 🌐 Socials:
