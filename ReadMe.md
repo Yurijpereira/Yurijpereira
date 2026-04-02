@@ -117,12 +117,12 @@ Always evolving. Always building.
 
 ###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Tokscale Stats](https://tokscale.ai/api/embed/Yurijpereira/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yurijpereira)
 
 ###
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/Yurijpereira/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yurijpereira)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ###
 
